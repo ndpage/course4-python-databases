@@ -1,0 +1,1 @@
+# Example file for learning data model and data base design
